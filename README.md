@@ -16,8 +16,8 @@ console.log(perfilEspañol);
 
 ```
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1qYXM2amhzYzNid3JyeTJiNXF6aWFxMHV1c3djc3NpZzd2YWVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" alt="dino jeje" width="220" style="margin-right: 10px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlpNm4xbzZleXN0NWp4NXJzMnhmNDE3bHBiaGxsd2NtaGh2eXB2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0U7bWQK9s75PjRKcHz/giphy.gif" alt="Procesando Traducción..." width="220">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1qYXM2amhzYzNid3JyeTJiNXF6aWFxMHV1c3djc3NpZzd2YWVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" alt="dino jeje" height="200" width="220" style="margin-right: 10px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlpNm4xbzZleXN0NWp4NXJzMnhmNDE3bHBiaGxsd2NtaGh2eXB2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0U7bWQK9s75PjRKcHz/giphy.gif" alt="Procesando Traducción..." height="200" width="220">
 </p>
 
 #### 💻 Output / Salida de la consola 🤖🤖🤖...
