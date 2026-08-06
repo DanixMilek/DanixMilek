@@ -36,7 +36,7 @@ console.log(perfilEspañol);
   </a>
 </p>
 <p align="center">
-  <img src="(https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)" alt="ILoveCode" width="220">
+  <img src="https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif" alt="ILoveCode" width="220">
 </p>
 
 <!--
