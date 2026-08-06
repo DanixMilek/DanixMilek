@@ -10,7 +10,7 @@ const Danitsa = {
   os: [Windows, Linux]
 }
 
-// Traduciendo perfil al español...
+// Translating profile into Spanish / Traduciendo perfil al español...
 const perfilEspañol = translateToSpanish(Danitsa);
 console.log(perfilEspañol);
 
@@ -42,6 +42,20 @@ console.log(perfilEspañol);
 </p>
 <p align="center">
   <img src="https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif" alt="ILoveCode" width="220">
+</p>
+
+<p align="center">
+  <!-- JavaScript -->
+  <img src="https://shields.io" alt="JS">
+  
+  <!-- React -->
+  <img src="https://shields.io" alt="React">
+  
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python">
+  
+  <!-- LinkedIn -->
+  <a href="TU_LINK_A_LINKEDIN"><img src="https://shields.io" alt="LinkedIn"></a>
 </p>
 
 <!--
