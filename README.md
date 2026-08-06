@@ -1,6 +1,34 @@
-## Hi, I´m Danitsa
+## (¯`·._.·(¯`·._.· Hi, I´m Danitsa ·._.·´¯)·._.·´¯)
+
+```
+// About Me...
+const Danitsa = {
+  profession: [Electronic Technician, Computer Engineer],
+  code: [Javascript, Typescript, HTML, CSS, Python, SQL, NoSQL],
+  tools: [React, Node, Docker, Django, Flask,  Angular, Nginx ,Gunicorn.],
+  methodologies: [Agile, Scrum, Kanban],
+  os: [Windows, Linux]
+}
+
+// Traduciendo perfil al español...
+const perfilEspañol = translateToSpanish(Danitsa);
+console.log(perfilEspañol);
+
+```
+#### 💻 Output / Salida de la consola:
+```json
+{
+  "profesion": ["Técnica Electrónica", "Ingeniera en Informática"],
+  "lenguajes": ["Javascript", "Typescript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
+  "herramientas": ["React", "Node", "Docker", "Django", "Flask", "Angular", "Nginx", "Gunicorn"],
+  "metodologias": ["Ágil", "Scrum", "Kanban"],
+  "os": ["Windows", "Linux"]
+}
+```
+
 
 ![I love Code](https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)
+
 <!--
 **DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
