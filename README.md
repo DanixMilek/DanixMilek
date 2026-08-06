@@ -27,7 +27,7 @@ console.log(perfilEspañol);
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, npm, nodejs, docker, django, nginx, postgres, react, angular" />
+    <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" />
   </a>
 </p>
 
