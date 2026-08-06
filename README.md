@@ -35,8 +35,9 @@ console.log(perfilEspañol);
     <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" />
   </a>
 </p>
-
-![I love Code](https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)
+<p align="center">
+  <img src="(https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)" alt="ILoveCode" width="220">
+</p>
 
 <!--
 **DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
