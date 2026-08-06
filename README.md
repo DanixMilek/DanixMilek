@@ -15,7 +15,7 @@ const perfilEspañol = translateToSpanish(Danitsa);
 console.log(perfilEspañol);
 
 ```
-#### 💻 Output / Salida de la consola:
+#### 💻 Output / Salida de la consola 🤖🤖🤖...
 ```json
 {
   "profesion": ["Técnica Electrónica", "Ingeniera en Informática"],
@@ -25,7 +25,11 @@ console.log(perfilEspañol);
   "os": ["Windows", "Linux"]
 }
 ```
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git, npm, nodejs, docker, django, nginx, postgres, react, angular" />
+  </a>
+</p>
 
 ![I love Code](https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)
 
