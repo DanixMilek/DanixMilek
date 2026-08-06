@@ -1,6 +1,6 @@
 ## Hi, I´m Danitsa
 
-![I love Code](https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632)
+![I love Code](https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif)
 <!--
 **DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
