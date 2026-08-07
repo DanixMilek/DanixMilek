@@ -8,7 +8,7 @@ Hands-on experience as a developer and QA analyst across Linux, Windows, and And
 frameworks. Highly adaptable with a strong commitment to continuous learning, having successfully led and delivered
 projects of varying technical complexity, including web and mobile solutions, predictive AI models, and immersive VR
 systems.],
-  profession: [Electronic Technician, Computer Engineer],
+  profession: [Electronic Technician, Software Engineer],
   code: [Javascript, Typescript, HTML, CSS, Python, SQL, NoSQL],
   tools: [React, Node, Docker, Django, Flask,  Angular, Nginx ,Gunicorn.],
   methodologies: [Agile, Scrum, Kanban],
