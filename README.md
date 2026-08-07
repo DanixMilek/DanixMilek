@@ -42,7 +42,7 @@ console.log(perfilEspañol);
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/danitsa-chandia-celis/" target="_blank">
+  <a href="https://www.linkedin.com/in/danitsa-chandia-celis/" target="_blank">
     <img src="https://flat.badgen.net/badge/LinkedIn/Click/blue?icon=linkedin" alt="LinkedIn">
   </a>
 </p>
