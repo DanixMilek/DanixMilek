@@ -23,34 +23,38 @@ console.log(perfilEspañol);
 #### 💻 Output / Salida de la consola 🤖🤖🤖...
 ```json
 {
-  "profesion": ["Técnica Electrónica", "Ingeniera en Informática"],
+  "profesión": ["Técnica Electrónica", "Ingeniera en Informática"],
   "lenguajes": ["Javascript", "Typescript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
   "herramientas": ["React", "Node", "Docker", "Django", "Flask", "Angular", "Nginx", "Gunicorn"],
-  "metodologias": ["Ágil", "Scrum", "Kanban"],
+  "metodologías": ["Ágil", "Scrum", "Kanban"],
   "os": ["Windows", "Linux"]
 }
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" width="200"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" width="250"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" width="220"/>
+    <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" width="450"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danitsa-chandia-celis/" target="_blank">
-    <img src="https://flat.badgen.net/badge/LinkedIn/Click/blue?icon=linkedin" alt="LinkedIn">
-  </a>
-</p>
+More about me / Más sobre mí:
 
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danitsa-chandia-celis/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danitsa-chandia-celis/)
+
+
+  
 <p align="center">
   <img src="https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif" alt="ILoveCode" width="220">
 </p>
 
+<p align="center">
+  💖 I Love < / > and c[_] 💖
+</p>
 
 <!--
 **DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
