@@ -42,7 +42,7 @@ console.log(perfilEspañol);
 </p>
 
 <p align="center">
-  <img src="https://flat.badgen.net/badge/:LinkedIn/:active/:blue?icon=linkedin" alt="LinkedIn" width="220">
+  <img src="https://flat.badgen.net/badge/:LinkedIn/:active/:blue?icon=linkedin" alt="LinkedIn" width="20">
 </p>
 
 <p align="center">
