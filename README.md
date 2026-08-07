@@ -41,22 +41,12 @@ console.log(perfilEspañol);
   </a>
 </p>
 <p align="center">
+  <img src="https://badgen.net/badge/:subject/:status/:color?icon=github" alt="ILoveCode" width="220">
+</p>
+<p align="center">
   <img src="https://tenor.com/es-US/view/meow-code-cat-pc-head-bang-wob-cat-gif-10503650491884363632.gif" alt="ILoveCode" width="220">
 </p>
 
-<p align="center">
-  <!-- JavaScript -->
-  <img src="https://shields.io" alt="JS">
-  
-  <!-- React -->
-  <img src="https://shields.io" alt="React">
-  
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python">
-  
-  <!-- LinkedIn -->
-  <a href="TU_LINK_A_LINKEDIN"><img src="https://shields.io" alt="LinkedIn"></a>
-</p>
 
 <!--
 **DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
