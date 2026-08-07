@@ -1,8 +1,13 @@
-## (¯`·._.·(¯`·._.· Hi, I´m Danitsa ·._.·´¯)·._.·´¯)
+## (¯`·._.·(¯`·._.· Hi, I´m Danitsa and I'm a Software Engineer! ·._.·´¯)·._.·´¯)
 
-```
+```js
 // About Me...
 const Danitsa = {
+  description: [Software Engineer specializing in Full Stack Development, Artificial Intelligence, and Cybersecurity.
+Hands-on experience as a developer and QA analyst across Linux, Windows, and Android environments within agile
+frameworks. Highly adaptable with a strong commitment to continuous learning, having successfully led and delivered
+projects of varying technical complexity, including web and mobile solutions, predictive AI models, and immersive VR
+systems.],
   profession: [Electronic Technician, Computer Engineer],
   code: [Javascript, Typescript, HTML, CSS, Python, SQL, NoSQL],
   tools: [React, Node, Docker, Django, Flask,  Angular, Nginx ,Gunicorn.],
@@ -23,6 +28,11 @@ console.log(perfilEspañol);
 #### 💻 Output / Salida de la consola 🤖🤖🤖...
 ```json
 {
+  "descripción": [Ingeniera Informática especializada en Desarrollo Full Stack, Inteligencia Artificial y Ciberseguridad.
+Cuento con experiencia práctica como desarrolladora y analista QA en entornos Linux, Windows y Android bajo marcos de
+trabajo ágiles. Gracias a una elevada adaptabilidad y capacidad de aprendizaje continuo, he liderado y completado
+exitosamente proyectos de variada complejidad técnica, incluyendo soluciones web/móviles, modelos predictivos de IA y
+sistemas inmersivos de VR.]
   "profesión": ["Técnica Electrónica", "Ingeniera en Informática"],
   "lenguajes": ["Javascript", "Typescript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
   "herramientas": ["React", "Node", "Docker", "Django", "Flask", "Angular", "Nginx", "Gunicorn"],
@@ -31,12 +41,12 @@ console.log(perfilEspañol);
 }
 ```
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" width="250"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" width="450"/>
   </a>
 </p>
@@ -56,17 +66,3 @@ More about me / Más sobre mí:
   💖 I Love < / > and c[_] 💖
 </p>
 
-<!--
-**DanixMilek/DanixMilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
