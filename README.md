@@ -32,12 +32,12 @@ console.log(perfilEspañol);
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" width="140"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" width="200"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" width="140"/>
+    <img src="https://skillicons.dev/icons?i=git,npm,nodejs,docker,django,nginx,postgres,react,angular" width="220"/>
   </a>
 </p>
 
